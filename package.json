@@ -1,7 +1,7 @@
 {
   "name": "blueprint-popover",
   "version": "0.1.0",
-  "homepage": "https://tgreen7.github.io/blueprint-popover/",
+  "homepage": "https://tgreen7.github.io/blueprint-popover-v1/",
   "private": true,
   "dependencies": {
     "@blueprintjs/core": "1.35.5",
